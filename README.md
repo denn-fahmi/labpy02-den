@@ -49,4 +49,4 @@ dan ini adalah eksekusi yang akan di tampilkan jika kalian menginputkan ya atau 
 
 #**judul:membuat fungsi aritmatika dasar**
 
-
+![.gambar4](es6.PNG)
