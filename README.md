@@ -7,4 +7,4 @@ Mata Kuliah : Bahasa pemograman <p>
 ### Flowchart
 ![.gambar1](es1.PNG)
 
-- **Mulai**: Proses dimulai dengan langkah ini, ditandai oleh simbol oval.
+- **Mulai**: Proses dimulai dengan langkah ini
