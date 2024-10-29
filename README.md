@@ -42,3 +42,7 @@ Jika pengguna tidak memiliki kartu member ("tidak"), harga akhir tetap sama deng
 ## program python
 program python akan di tampilkan seperti ini dari flowchart yang ada di atas
 ![.gambar2](es2.PNG)
+
+## eksekusi dari Python yang ada di atas
+dan ini adalah eksekusi yang akan di tampilkan jika kalian menginputkan ya atau tidak
+![.gambar3](es3.PNG)
