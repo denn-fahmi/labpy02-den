@@ -47,6 +47,67 @@ program python akan di tampilkan seperti ini dari flowchart yang ada di atas
 dan ini adalah eksekusi yang akan di tampilkan jika kalian menginputkan ya atau tidak
 ![.gambar3](es3.PNG)
 
-# **judul:membuat fungsi aritmatika dasar**
+
+# **judul:membuat kalkulator sederhana**
 
 ![.gambar4](es6.PNG)
+
+- **1. Mulai:**
+
+Titik awal dari flowchart, yang menandakan proses dimulai.
+
+- **2. Masukkan Angka Pertama (angka1):**
+
+Pengguna diminta memasukkan angka pertama yang akan digunakan dalam perhitungan.
+
+- **3. Masukkan Angka Kedua (angka2):**
+
+Pengguna diminta memasukkan angka kedua.
+
+- **4. Masukkan Operator Aritmatika (operator):**
+
+Pengguna diminta memasukkan operator aritmatika yang ingin digunakan. Operator dapat berupa +, -, *, atau /.
+
+- **5. Apakah Operator +?:**
+
+Sistem memeriksa apakah operator yang dimasukkan adalah +.
+
+Ya: Jika ya, maka sistem akan menghitung angka1 + angka2.
+
+Tidak: Jika tidak, maka sistem lanjut ke langkah berikutnya.
+
+- **6. Apakah Operator -?:**
+
+Sistem memeriksa apakah operator yang dimasukkan adalah -.
+
+Ya: Jika ya, maka sistem akan menghitung angka1 - angka2.
+
+Tidak: Jika tidak, maka sistem lanjut ke langkah berikutnya.
+
+- **7. Apakah Operator *?:***
+
+Sistem memeriksa apakah operator yang dimasukkan adalah *.
+
+Ya: Jika ya, maka sistem akan menghitung angka1 * angka2.
+
+Tidak: Jika tidak, maka sistem lanjut ke langkah berikutnya.
+
+- **8. Apakah Operator /?:**
+
+Sistem memeriksa apakah operator yang dimasukkan adalah /.
+
+Ya: Jika ya, maka sistem memeriksa apakah angka2 tidak sama dengan nol.
+
+Ya: Jika angka2 bukan nol, maka sistem akan menghitung angka1 / angka2.
+
+Tidak: Jika angka2 adalah nol, sistem akan menampilkan pesan error bahwa pembagian dengan nol tidak bisa dilakukan.
+
+Tidak: Jika operator bukan /, maka sistem menampilkan pesan error bahwa operator tidak valid.
+
+- **9. Tampilkan Hasil:**
+
+Sistem menampilkan hasil perhitungan yang sesuai dengan operator yang dipilih.
+
+- **10. Selesai:**
+
+Proses selesai dan flowchart berakhir.
