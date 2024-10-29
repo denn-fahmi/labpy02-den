@@ -38,3 +38,4 @@ Jika pengguna tidak memiliki kartu member ("tidak"), harga akhir tetap sama deng
 
 - **Tampilkan Harga Akhir:** Program menampilkan total harga tiket yang harus dibayar oleh pengguna.
 - **Selesai:** Proses selesai
+![.gambar2](es2.PNG)
