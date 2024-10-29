@@ -47,6 +47,6 @@ program python akan di tampilkan seperti ini dari flowchart yang ada di atas
 dan ini adalah eksekusi yang akan di tampilkan jika kalian menginputkan ya atau tidak
 ![.gambar3](es3.PNG)
 
-#**judul:membuat fungsi aritmatika dasar**
+# **judul:membuat fungsi aritmatika dasar**
 
 ![.gambar4](es6.PNG)
