@@ -14,4 +14,5 @@ Mata Kuliah : Bahasa pemograman <p>
   diskon bagi yang member adalah 20%
   maka tentukan harga untuk tiket reguler dan tiket Vip, serta diskon untuk member
 
-  - **input tipe tiket:** pembeli diminta untuk memasukkan tipe tiket yang ingin dibeli, apakah Vip atau Reguler
+- **input tipe tiket:** pembeli diminta untuk memasukkan tipe tiket yang ingin dibeli, apakah Vip atau Reguler
+-**input status member:** pembeli diminta memasukkan status keanggotaan mereka, apakah memiliki kartu member, jika iya "iya" dan jika tidak "tidak"
