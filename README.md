@@ -6,4 +6,5 @@ Mata Kuliah : Bahasa pemograman <p>
 ## pemesanan tiket bioskop
 ### Flowchart
 ![.gambar1](es1.PNG)
+
 -**Mulai**: Proses dimulai dengan langkah ini, ditandai oleh simbol oval.
