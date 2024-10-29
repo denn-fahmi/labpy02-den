@@ -5,4 +5,4 @@ Nim : 312410523 <p>
 Mata Kuliah : Bahasa pemograman <p> 
 ## pemesanan tiket bioskop
 ### Flowchart
-![.gambar1](es1.jpeg)
+![.gambar1](es1.PNG)
