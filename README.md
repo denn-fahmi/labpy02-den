@@ -22,4 +22,16 @@ Mata Kuliah : Bahasa pemograman <p>
   Jika tipe tiket bukan "reguler" atau "VIP", anggap sebagai input yang tidak valid dan minta pengguna untuk memasukkan tipe tiket yang benar. <p>
 
 - **Periksa Apakah Harga Tidak Nol:**
+Program memeriksa apakah harga tiket sudah diatur (tidak nol):
 
+Jika harga sudah diatur, lanjutkan ke langkah berikutnya.
+
+Jika harga belum diatur (nol), kembali ke input tipe tiket.
+
+- **Cek Status Member dan Hitung Diskon:**
+
+Program memeriksa apakah pengguna memiliki kartu member:
+
+Jika pengguna memiliki kartu member ("ya"), harga akhir dihitung dengan memberikan diskon 20%.
+
+Jika pengguna tidak memiliki kartu member ("tidak"), harga akhir tetap sama dengan harga tiket tanpa diskon.
