@@ -38,4 +38,7 @@ Jika pengguna tidak memiliki kartu member ("tidak"), harga akhir tetap sama deng
 
 - **Tampilkan Harga Akhir:** Program menampilkan total harga tiket yang harus dibayar oleh pengguna.
 - **Selesai:** Proses selesai
+
+## program python
+program python akan di tampilkan seperti ini dari flowchart yang ada di atas
 ![.gambar2](es2.PNG)
