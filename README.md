@@ -16,3 +16,7 @@ Mata Kuliah : Bahasa pemograman <p>
 
 - **input tipe tiket:** pembeli diminta untuk memasukkan tipe tiket yang ingin dibeli, apakah Vip atau Reguler
 - **input status member:** pembeli diminta memasukkan status keanggotaan mereka, apakah memiliki kartu member, jika iya "iya" dan jika tidak "tidak"
+- **validasi tipe tiket** Program memeriksa apakah tipe tiket yang diinput adalah "Reguler" atau "VIP":
+  Jika tipe tiket adalah "reguler", lanjutkan ke langkah berikutnya dengan harga tiket diatur ke Rp50.000.
+  Jika tipe tiket adalah "VIP", lanjutkan ke langkah berikutnya dengan harga tiket diatur ke Rp100.000.
+  Jika tipe tiket bukan "reguler" atau "VIP", anggap sebagai input yang tidak valid dan minta pengguna untuk memasukkan tipe tiket yang benar.
