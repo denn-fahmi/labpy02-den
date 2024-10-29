@@ -35,3 +35,5 @@ Program memeriksa apakah pengguna memiliki kartu member:
 Jika pengguna memiliki kartu member ("ya"), harga akhir dihitung dengan memberikan diskon 20%.
 
 Jika pengguna tidak memiliki kartu member ("tidak"), harga akhir tetap sama dengan harga tiket tanpa diskon.
+
+- **Tampilkan Harga Akhir:** Program menampilkan total harga tiket yang harus dibayar oleh pengguna.
