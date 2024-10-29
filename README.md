@@ -111,3 +111,11 @@ Sistem menampilkan hasil perhitungan yang sesuai dengan operator yang dipilih.
 - **10. Selesai:**
 
 Proses selesai dan flowchart berakhir.
+
+## beginilah tampilan jika flowchart di atas di buat menjadi program python
+
+![.gambar5](es4.PNG)
+
+## dan beginilah tampilan ketika di eksekusi
+
+![.gambar6](es5.PNG)
